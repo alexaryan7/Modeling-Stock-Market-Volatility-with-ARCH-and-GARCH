@@ -1,0 +1,1 @@
+# Modeling-Stock-Market-Volatility-with-ARCH-and-GARCH
